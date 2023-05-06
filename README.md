@@ -29,7 +29,7 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository:
 
    ````
-   git clone https://github.com/your-username/little-lemon-api.git
+   git clone https://github.com/FahadMajed/little-lemon.git
    ```
 
    ````
