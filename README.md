@@ -37,7 +37,7 @@ These instructions will help you set up the project on your local machine for de
 2. Change into the project directory:
 
    ```
-   cd little-lemon-api
+   cd little-lemon
    ```
 
 3. Install the dependencies using pipenv:
