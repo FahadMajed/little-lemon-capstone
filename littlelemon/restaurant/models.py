@@ -13,7 +13,7 @@ class Booking(models.Model):
         return f"{self.name} - {self.booking_date}"
 
 
-class Menu(models.Model):
+class MenuItem(models.Model):
     id = models.AutoField(primary_key=True)
     title = models.CharField(max_length=200)
     price = models.DecimalField(max_digits=6, decimal_places=2)
@@ -21,3 +21,6 @@ class Menu(models.Model):
 
     def __str__(self):
         return self.title
+
+    def get_item(self):
+        return f'{self.title} : {str(self.price)}'
