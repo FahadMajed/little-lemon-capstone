@@ -29,7 +29,7 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository:
 
    ````
-   git clone https://github.com/FahadMajed/little-lemon.git
+   git clone https://github.com/FahadMajed/little-lemon-capstone.git
    ```
 
    ````
@@ -37,7 +37,7 @@ These instructions will help you set up the project on your local machine for de
 2. Change into the project directory:
 
    ```
-   cd little-lemon
+   cd little-lemon-capstone
    ```
 
 3. Install the dependencies using pipenv:
